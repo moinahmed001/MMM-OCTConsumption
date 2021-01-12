@@ -1,7 +1,7 @@
 /* Magic Mirror
  * Module: MMM-OCTConsumption
  *
- * By Mykle1
+ * By Moin Ahmed
  *
  */
 const NodeHelper = require('node_helper');

@@ -1,7 +1,7 @@
 /* Magic Mirror
  * Module: MMM-OCTConsumption
  *
- * By Mykle1
+ * By Moin Ahmed
  *
  */
 Module.register("MMM-OCTConsumption", {
